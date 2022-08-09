@@ -53,7 +53,7 @@ public class MagicEightBallController {
         return new MagicEightBallResponse(question ,theEightBall.getResponse());
     }
     /*****************************************************************************************
-     * Helper method to log a message provided via parameter ane timestamp
+     * Helper method to log a message provided via parameter and timestamp
      *
      * @param message
      */

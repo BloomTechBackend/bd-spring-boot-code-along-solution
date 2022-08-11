@@ -1,4 +1,4 @@
-package com.bloomtech.codealong.MagicEightBall.types;
+package com.bloomtech.codealong.MagicEightBall.model;
 
 public class MagicEightBallResponse {
 

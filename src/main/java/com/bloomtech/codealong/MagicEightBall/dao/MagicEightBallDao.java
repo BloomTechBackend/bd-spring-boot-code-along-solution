@@ -32,7 +32,7 @@ public class MagicEightBallDao {
      * Return a random response
      ********************************************************************************************/
      public String getResponse() {
-         // Instantiate a Randmo object for use in generating a ramdom response index
+         // Instantiate a Random object for use in generating a ramdom response index
          Random randomNumberGenerator = new Random();
 
          // Return a response using a random index between 0 and the last element index

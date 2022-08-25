@@ -1,4 +1,4 @@
-# Iterators - Code-Along
+# Spring Boot - Code-Along
 
 This activity will be walked through by your instructor.
 
